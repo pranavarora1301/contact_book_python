@@ -40,6 +40,7 @@ Clone the repository and run the script:
 git clone https://github.com/yourusername/contact-book-app.git
 cd contact-book-app
 python contact.py
+```
 ---
 
 **💡 Demo**
