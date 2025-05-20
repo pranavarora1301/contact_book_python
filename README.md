@@ -1,22 +1,22 @@
-**📒 Contact Book App**
+**Contact Book App**
 
 A simple Python-based terminal application to manage your contacts. This app allows you to **create, view, update, delete, search, and count** contacts using a menu-driven interface.
 
 ---
 
-**🔧 Features**
+**Features**
 
-- ➕ Add new contacts with name, age, email, and phone number
-- 🔍 Search for contacts by name (partial match supported)
-- 📝 Update existing contact information
-- ❌ Delete contacts
-- 📋 View individual contact details
-- 🧮 Count total number of contacts
-- 🚪 Exit anytime
+- Add new contacts with name, age, email, and phone number
+- Search for contacts by name (partial match supported)
+- Update existing contact information
+- Delete contacts
+- View individual contact details
+- Count total number of contacts
+- Exit anytime
 
 ---
 
-**🛠️ Technologies Used**
+**Technologies Used**
 
 - Python 3
 - Dictionary Data Structure
@@ -24,9 +24,9 @@ A simple Python-based terminal application to manage your contacts. This app all
 
 ---
 
-**🚀 Getting Started**
+**Getting Started**
 
-**📦 Prerequisites**
+**Prerequisites**
 
 Make sure Python 3 is installed on your machine.
 
@@ -34,7 +34,7 @@ Make sure Python 3 is installed on your machine.
 python --version
 ---
 
-**▶️ How to Run**
+**How to Run**
 Clone the repository and run the script:
 
 git clone https://github.com/yourusername/contact-book-app.git
@@ -43,7 +43,7 @@ python contact.py
 ```
 ---
 
-**💡 Demo**
+**Demo**
 
 Contact Book App
 1. CREATE CONTACT
@@ -61,12 +61,12 @@ Enter your Mobile number = 9876543210
 Contact name Alice has been created successfully.
 ---
 
-**📌 TODOs / Known Issues**
-🔄 Fix variable reuse bugs in view/search (currently uses global variables like age, email out of scope).
+**TODOs / Known Issues**
+ Fix variable reuse bugs in view/search (currently uses global variables like age, email out of scope).
 
-**💾 Add persistence (save to file or database).**
+**Add persistence (save to file or database).**
 
-**🧪 Add test cases and modularize code using functions/classes.**
+**Add test cases and modularize code using functions/classes.**
 
-**🤝 Contributing**
+**Contributing**
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
