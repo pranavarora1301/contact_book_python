@@ -32,6 +32,7 @@ Make sure Python 3 is installed on your machine.
 
 ```bash
 python --version
+---
 
 **▶️ How to Run**
 Clone the repository and run the script:
@@ -39,6 +40,7 @@ Clone the repository and run the script:
 git clone https://github.com/yourusername/contact-book-app.git
 cd contact-book-app
 python contact.py
+---
 
 **💡 Demo**
 
@@ -56,6 +58,7 @@ Enter your age = 25
 Enter your email = alice@example.com
 Enter your Mobile number = 9876543210
 Contact name Alice has been created successfully.
+---
 
 **📌 TODOs / Known Issues**
 🔄 Fix variable reuse bugs in view/search (currently uses global variables like age, email out of scope).
